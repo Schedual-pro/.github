@@ -1,48 +1,38 @@
 <div align="center">
-
-# SCHEDUAL
-
-### Complex school scheduling, made simpler.
-
-Schedual helps schools turn curriculum rules, student choices and real-world constraints into clear, workable timetables.
-
-[**Explore Schedual →**](https://schedual-pro.com/)
-
+  <img src="https://raw.githubusercontent.com/Schedual-pro/.github/main/schedual-logo.png" alt="Schedual logo" width="96" />
+  <h1>SCHEDUAL</h1>
+  <p><strong>Complex school scheduling, made simpler.</strong></p>
+  <p><a href="https://schedual-pro.com/">Explore Schedual →</a></p>
 </div>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Schedual-pro/.github/main/schedual-animated-banner.gif" alt="Schedual logo alongside an animated timetable being optimised" width="100%" />
+</p>
 
-## What we’re building
+## Timetabling built around how schools work
 
-Creating a school timetable means coordinating far more than lessons and time slots. Student subject choices, curriculum requirements, teacher availability and room capacity all need to fit together.
+A school timetable has to bring student choices, curriculum rules, teacher availability and room capacity together. Schedual uses constraint optimisation to help schools build and refine a timetable across those requirements.
 
-Schedual is a school timetabling platform built to handle those constraints together. Its optimisation engine models a school’s rules and searches for a timetable that works across the whole school.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Schedual-pro/.github/main/schedual-workflow.gif" alt="Animated workflow from school rules through optimisation to a timetable" width="100%" />
+</p>
 
-## Designed for the IB
+## Starting with the IB Diploma Programme
 
-Schedual’s first focus is the **IB Diploma Programme**, including the scheduling details that make it challenging:
+Schedual is designed to handle the scheduling details that make IB timetabling challenging:
 
 - Higher Level and Standard Level subject combinations
-- Shared lessons between groups
+- Shared lessons between student groups
 - Core programme sessions
-- Student choices, teacher availability and room capacity
+- Teacher availability and room capacity
+- Student subject choices across the whole school
 
-The goal is to spend less time resolving timetable clashes and more time on the work that matters to students and staff.
-
-## The idea
-
-**Clear constraints in. A timetable your school can work with.**
-
-Schedual brings school information and scheduling rules into one place, then uses constraint optimisation to help build and refine timetable options.
+The aim is to reduce timetable clashes and the time spent resolving them, giving schools more time for students and teaching.
 
 ## Learn more
 
-Visit [schedual-pro.com](https://schedual-pro.com/) to discover the product and get in touch.
-
----
+Visit [schedual-pro.com](https://schedual-pro.com/) to explore the product and get in touch.
 
 <div align="center">
-
-Built for the people who make schools run.
-
+  <sub>Built for the people who make schools run.</sub>
 </div>
