@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="assets/schedual-logo.png" alt="Schedual logo" width="96" />
+  <img src="https://raw.githubusercontent.com/Schedual-pro/.github/main/schedual-logo.png" alt="Schedual logo" width="96" />
   <h1>SCHEDUAL</h1>
   <p><strong>Complex school scheduling, made simpler.</strong></p>
   <p><a href="https://schedual-pro.com/">Explore Schedual →</a></p>
 </div>
 
 <p align="center">
-  <img src="assets/schedual-animated-banner.gif" alt="Schedual logo alongside an animated timetable being optimised" width="100%" />
+  <img src="https://raw.githubusercontent.com/Schedual-pro/.github/main/schedual-animated-banner.gif" alt="Schedual logo alongside an animated timetable being optimised" width="100%" />
 </p>
 
 ## Timetabling built around how schools work
@@ -14,7 +14,7 @@
 A school timetable has to bring student choices, curriculum rules, teacher availability and room capacity together. Schedual uses constraint optimisation to help schools build and refine a timetable across those requirements.
 
 <p align="center">
-  <img src="assets/schedual-workflow.gif" alt="Animated workflow from school rules through optimisation to a timetable" width="100%" />
+  <img src="https://raw.githubusercontent.com/Schedual-pro/.github/main/schedual-workflow.gif" alt="Animated workflow from school rules through optimisation to a timetable" width="100%" />
 </p>
 
 ## Starting with the IB Diploma Programme
